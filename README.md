@@ -1,2 +1,3 @@
 # Introducción
 
+![](img/book.png)

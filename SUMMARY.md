@@ -3,6 +3,7 @@
 * [Introducción](README.md)
 
 ____
+
 ### Marzo19_AICLE_IP_1: Principios AICLE
 * [BLOQUE I: AICLE](index.md)
 	* [¿Por qué AICLE?](por_qu_aicle.md)
@@ -17,6 +18,7 @@ ____
 		* [Interacción, autonomía y variedad de recursos](interaccin_autonoma_y_variedad_de_recursos.md)
 		* [Trabajo por tareas](trabajo_por_tareas.md)
 		* [Las Rutinas de Pensamiento](las_rutinas_de_pensamiento.md)
+
 ### Marzo19_AICLE_IP_1: REA y otros recursos de utilidad para AICLE.
 * [BLOQUE II: REA y otros recursos de utilidad para AICLE](index0.md)
 	* [Estrategias de búsqueda de REA](estrategias_de_bsqueda_de_rea.md)
@@ -28,6 +30,7 @@ ____
 		* [Recursos lingüísticos específicos de L2](recursos_lingsticos_especficos_de_l2.md)
 		* [Otros recursos y materiales auténticos](otros_recursos_y_materiales_autnticos.md)
 		* [Crea tus propios recursos](crea_tus_propios_recursos.md)
+
 ### Marzo19_AICLE_IP_1: REA y la elaboración de materiales AICLE
 * [BLOQUE III:REA y la elaboración de materiales AICLE](index1.md)
 	* [Diseño de sesiones y unidades AICLE a partir de REA](diseo_de_sesiones_y_unidades_aicle_a_partir_de_rea.md)
@@ -48,3 +51,7 @@ ____
 		* [Flipped Classroom](flipped_classroom.md)
 		* [Gamificación](gamificacin.md)
 	* [Evaluación por Rubricas.](evaluacin_por_rubricas.md)
+
+---
+
+* [Créditos](crditos-buenos.md)
