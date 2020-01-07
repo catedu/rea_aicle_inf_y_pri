@@ -1,39 +1,43 @@
 {
-    "plugins": [
-        "youtube",
-        "accordion",
-        "image-captions",
-        "styled-blockquotes",
-        "localized-footer",
-        "edit-link",
-        "githubcontributors"
-    ],
-    "language": "es",
-    "variables": {
-        "title": "Recursos Educativos Digitales Abiertos y Metodología para la Enseñanza Bilingüe en Educación Infantil y Primaria",
-        "author": "Javier Ramos Sancha y Área de Formación en Línea de INTEF",
-        "collaborators": [
-            {
-                "name": "_________",
-                "edited": "_____________"
-            }
-        ]
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Recursos Educativos Digitales Abiertos y Metodología para la Enseñanza Bilingüe en Educación Infantil y Primaria",
+    "author": "Javier Ramos Sancha y Área de Formación en Línea de INTEF",
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
     },
-    "pluginsConfig": {
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "edit-link": {
-            "base": "Edita esta página",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "ensena-pensamiento-computacional-con-arduino"
-        }
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "Edita esta página",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "ensena-pensamiento-computacional-con-arduino"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }
