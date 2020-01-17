@@ -50,7 +50,7 @@ Estos puntos te serán de utilidad a la hora de llevar a cabo la actividad final
 
 Cuando exploremos los Recursos educativos en abierto (REA) ofreceremos enlaces a páginas web con referencia a distintos tipos de lenguaje, expresiones y frases. Valgan como ejemplo los siguientes enlaces ejemplos de lengua general, lenguaje académico y lenguaje técnico:
 
-*   [Everyday language in the classroom](05_expressions.pdf)
+*   [Everyday language in the classroom](http://formacion.intef.es/pluginfile.php/214299/mod_imscp/content/1/05_expressions.pdf)
 *   [Using English for Academic Purposes](http://www.uefap.com/)
 *   [The language of Science](http://www.csun.edu/science/ref/language/)
 *   [](http://www.csun.edu/science/ref/language/)[La Clase. Expresiones útiles en francés.](https://quieroaprenderfrances.wordpress.com/2013/01/14/la-clase-expresiones-utiles-en-frances/)

@@ -8,6 +8,8 @@ El término CLIL (AICLE) fue utilizado por primera vez por David Marsh en 1994:
 
 En el siguiente video puedes escuchar a D. Marsh explicando el nacimiento de la idea:
 
+{% youtube %}https://www.youtube.com/watch?v=8BtqN6ea75E {% endyoutube %}
+
 Una definición que expresa mejor el **modo entrelazado en que se integra la lengua y el contenido** así como el énfasis compartido en ambos aspectos en el AICLE es la enunciada a continuación:
 
 "Content and Language Integrated Learning (CLIL) is a dual-focused educational approach in which an additional language is used for the learning and teaching of both content and language. That is, in the teaching and learning process, there is a focus not only on content, and not only on language. Each is interwoven, even if the emphasis is greater on one or the other at a given time." Coyle, Hood and Marsh (2010:1).
@@ -23,7 +25,7 @@ Este cambio metodológico refleja el cambio de la sociedad en la que vivimos. Da
 En este contexto son diversos los programas educativos que se llevan a cabo basados en la enseñanza AICLE. Algunas de las variables a considerar son:
 
 1.  **Duración del programa**, es decir, en muchos casos el programa se desarrolla a lo largo de toda la etapa, comenzando por el año uno de la misma (de 1º a 4º de ESO), pero en otros programas la duración es modular y no dura necesariamente todo el curso o etapa. Esta última no suele ser la situación que más se da en España pero sí en otros países como Alemania o Austria.
-2.  **Uso de la lengua objeto**: esta variable determina qué cantidad de la materia en cuestión se enseña en la lengua objeto y esto influye en el tipo de programa. Esta variable oscila entre el treinta y el cincuenta o incluso cien por ciento de la materia. El uso de la L1 no es un obstáculo para que el aprendiz progrese en la L2, sino que hay investigaciones que avalan que la alternancia de código lingüístico puede facilitar el aprendizaje1.
+2.  **Uso de la lengua objeto**: esta variable determina qué cantidad de la materia en cuestión se enseña en la lengua objeto y esto influye en el tipo de programa. Esta variable oscila entre el treinta y el cincuenta o incluso cien por ciento de la materia. El uso de la L1 no es un obstáculo para que el aprendiz progrese en la L2, sino que hay investigaciones que avalan que la alternancia de código lingüístico puede facilitar el aprendizaje [^1].
 3.  **Áreas que se imparten**: lo que está directamente relacionado con el vocabulario y con la lengua específica que se empleará.
 4.  **Niveles de interacción** con la lengua objeto: es decir las oportunidades con las que cuenta el alumno de tomar contacto con la lengua. Así podemos referirnos a tres tipos de escenario, micro, medio y macro (Leo Van Liar, 2004), donde la relación sería de menor a mayor contacto.
 
@@ -31,7 +33,7 @@ Todas estas variables configuran escenarios diferentes que influirán en el dise
 
 * * *
 
-1Lin, A. M. (2008). Code-Switching In the Classroom: Research Paradigms and Approaches. In K. A. King, & N. H. Hornberger, _Encyclopedia of Language and Education_ (pp. 273-286). New York: Springer.
+[1]: Lin, A. M. (2008). Code-Switching In the Classroom: Research Paradigms and Approaches. In K. A. King, & N. H. Hornberger, _Encyclopedia of Language and Education_ (pp. 273-286). New York: Springer.
 
 Coyle, D., Hood, P. and Marsh, D. 2010, _CLIL. Content and Language Integrated Learning. _Cambridge: Cambridge University Press.
 
@@ -39,4 +41,4 @@ Marsh, D. 1994. Bilingual Education & Content and Language Integrated Learning. 
 
 Fields, Donna Lee .2016 _Echando una mano: 101 técnicas de andamiaje CLIL_, Editorial Octaedro, S.L.
 
-Fields, Donna Lee. _2016 Echando una mano: 101 técnicas de andamiaje CLIL_. [Material descargable](03_12018.pdf). Editorial Octaedro, S.L.
+Fields, Donna Lee. _2016 Echando una mano: 101 técnicas de andamiaje CLIL_. [Material descargable](http://formacion.intef.es/pluginfile.php/214299/mod_imscp/content/1/03_12018.pdf). Editorial Octaedro, S.L.

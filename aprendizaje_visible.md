@@ -22,7 +22,7 @@ De éstas y otras conclusiones **Hattie deduce las siguientes características y
 
 Lo anteriormente expuesto se resume en la siguiente presentación sobre el aprendizaje visible de John Hattie.
 
-  
+{% youtube %}https://www.youtube.com/watch?v=OkNgM2_q-oo {% endyoutube %}
 
 [The Golden Rule for Educators: Know thy Impact](https://www.youtube.com/watch?v=5WSTcVDwH3s)
 
@@ -32,9 +32,10 @@ _Aprende más:_ 
 
 El siguiente vídeo muestra una entrevista con John Hattie. Es igualmente interesante el escuchar el acento de un nativo neozelandés, ya que es uno de los acentos más difíciles de entender para un no nativo. 
 
-[Vídeo (YouTube) - Visible Learning - An Interview with Dr.John Hattie (OISE) - (29:45)](https://www.youtube.com/watch?v=rkXE4lBwHD4)
+{% youtube %}https://www.youtube.com/watch?v=rkXE4lBwHD4 {% endyoutube %}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+___
 
 Dweck, C. S. 2006. Mindset: The new psychology of success. New York: Random House.
 
@@ -42,4 +43,3 @@ Hattie, John A. 2008. _Visible Learning: A Synthesis of Over 800 Meta-Analyses 
 
 Hattie, John A. 2011. _Visible Learning for Teachers: Maximizing Impact on Learning_.
 
-Guardar
