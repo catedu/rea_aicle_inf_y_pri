@@ -10,8 +10,6 @@ Esta última categoría es la que se relaciona con lo que Vygotski denomina “Z
 
 
 [![Infografía Scaffolding](img/scaffoldinged_cropped.png)](https://anethicalisland.wordpress.com/2013/03/16/scaffolding/)
-
-
 Fragmento de la infografía realizada por [Mia MacMeekin](https://anethicalisland.wordpress.com) en [Scaffolding | An ethical island](https://anethicalisland.wordpress.com/2013/03/16/scaffolding/)
 
 Siguiendo la clasificación que hace Dodge (2001) vamos a referirnos a tres tipos de andamiaje que se pueden proporcionar dependiendo del momento en que se hace. También mencionaremos algunas actividades que pueden emplearse en cada caso:
@@ -25,5 +23,6 @@ A lo largo de este curso haremos referencia a este concepto de andamiaje en nume
 Seguramente el profesor de materia sabe cómo presentar y hacer más fácil el contenido de su materia, esto mismo ocurre con el profesor de L2 con respecto a la lengua. El profesor de AICLE necesita aprender las estrategias que le permitirán facilitar la lengua de manera que el contenido sea más accesible, para ello la colaboración entre ambos profesionales es de gran ayuda.
 
 \_\_\_\_\_\_\_  
+
 Dodge, B. 2001. "[FOCUS: Five rules for writing a great WebQuest.](http://disciplinas.stoa.usp.br/pluginfile.php/326587/mod_resource/content/0/FOCUS_Five_Rules_for_Writing_a_Great_WebQuest.htm)" Learning & Leading with Technology, 28, 8: 6-9.  
 Vigotsky, L. S. 1978. _Mind in Society: The Development of Higher Psychological processes_. Harvard University Press, Cambridge, MA.
