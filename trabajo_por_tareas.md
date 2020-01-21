@@ -1,6 +1,6 @@
 # Trabajo por tareas
 
-### Trabajo por tareas1
+### Trabajo por tareas [^1]
 
 **5**. Por último, la metodología AICLE está muy relacionada con el **aprendizaje enfocado a procesos y tareas** porque esta aproximación permite un aprendizaje más significativo y que los alumnos se sientan más involucrados en el aprendizaje.
 
@@ -19,7 +19,7 @@ Ejemplos de **tareas de recepción** son: recopilar o contrastar información so
 
 A continuación se enumeran algunas actividades que se pueden utilizar en el proceso para llevar a cabo tareas de recepción:
 
-*   Asignar etiquetas o nombres, distribuir contenido. [Animals parts of the body](08_Animals_parts_of_the_body.pdf), [Lex animaux marines.](http://clic.xtec.cat/db/act_es.jsp?id=2017) 
+*   Asignar etiquetas o nombres, distribuir contenido. [Animals parts of the body](http://formacion.intef.es/pluginfile.php/214299/mod_imscp/content/1/08_Animals_parts_of_the_body.pdf), [Lex animaux marines.](http://clic.xtec.cat/db/act_es.jsp?id=2017) 
 *   Elegir parte del contenido de acuerdo a un criterio dado, etc. [Animal Riddle](http://www.meddybemps.com/riddles/Index.html)
 *   Completar tablas, líneas del tiempo, diagramas, mapas conceptuales, etc.
 
@@ -37,7 +37,7 @@ Ejemplos de actividades de producción son: diseñar algún objeto o producto; e
 
 Por otro lado, algunas de las estrategias y actividades que pueden realizarse como parte del proceso de andamiaje y de realización de una tarea de producción pueden ser:
 
-*   Completar huecos en textos o parte de los textos. [Los transportes (2ª Primaria)](09_everything_closer.pdf)
+*   Completar huecos en textos o parte de los textos. [Los transportes (2ª Primaria)](http://formacion.intef.es/pluginfile.php/214299/mod_imscp/content/1/09_everything_closer.pdf)
 *   Terminar frases.
 *   Responder a preguntas de comprensión del texto o audición, etc.
 *   Contestar cuestionarios de opinión, buscar información en distintos recursos: libros, Internet (búsqueda guiada), p.e., vídeos de animales en [Vidipedia](http://www.vidipedia.org/)
@@ -51,6 +51,6 @@ Lo último que queremos apuntar es que, a efectos prácticos, se debe comenzar c
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 1 Pérez Torres, I. 2009a. "Apuntes sobre los principios y características de la metodología AICLE" en V. Pavón, J. Ávila (eds.), Aplicaciones didácticas para la enseñanza integrada de lengua y contenidos. Sevilla: Consejería de Educación de la Junta de Andalucía-Universidad de Córdoba.171-180.
+ [1]: Pérez Torres, I. 2009a. "Apuntes sobre los principios y características de la metodología AICLE" en V. Pavón, J. Ávila (eds.), Aplicaciones didácticas para la enseñanza integrada de lengua y contenidos. Sevilla: Consejería de Educación de la Junta de Andalucía-Universidad de Córdoba.171-180.
 
 Bygate,M., P.Skehan, M.Swain (eds). 2001. _Researching pedagogical tasks: second language learning, teaching, and assessment. _London: Pearson
