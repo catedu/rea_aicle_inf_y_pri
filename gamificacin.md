@@ -10,6 +10,5 @@ La Gamificación es una técnica de aprendizaje que traslada la mecánica de los
 En la actualidad son muchas las herramientas y experiencias que nos pueden ayudar a gamificar y crear experiencias de gamificación en nuestras aulas. 
 
 *   [20 herramientas de gamificación para enganchar a tus alumnos.](https://www.educaciontrespuntocero.com/recursos/herramientas-gamificacion-educacion/33094.html)
-*   [Gamifica tu aula: Blog de experiencias. ](http://gamificatuaula.wixsite.com/ahora/blog)
 *   [Gamificación en Natural Science: Ecosystem Game](http://ecosystemgame.weebly.com/)
 *   [Ejemplos y recursos de gamificación para maestros.](http://www.javiquil.com/archivos/4765) .

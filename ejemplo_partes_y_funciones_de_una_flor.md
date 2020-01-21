@@ -4,7 +4,7 @@ Así por ejemplo, si tomamos el caso concreto de la [actividad sobre las plantas
 
 *   Vamos a partir del recurso de un vídeo sobre las plantas dirigido a público infantil.
 
-[Vídeo (YouTube) - Parts of a Flower - Functions... for kids, kindergarten, preschoolers - (06:23)](https://www.youtube.com/watch?v=HuKa57OJ_iA)
+{% youtube %}https://www.youtube.com/watch?v=HuKa57OJ_iA {% endyoutube %}
 
 *   Si queremos que sea más eficaz y sea comprendido mejor por los alumnos, antes de ver el vídeo, vamos a mostrar una imagen con las partes de las plantas sobre las que el vídeo va a tratar. 
 *   Posterior al vídeo, la actividad de refuerzo y ayuda consistirá en etiquetar una imagen de una flor sin los nombres de las partes. También se puede hacer un ejercicio tipo unir palabras con definiciones elaborada con una herramienta _online_ y usando la principal información del vídeo.
@@ -21,7 +21,3 @@ _Playposit parts of a plant_
  Otros ejemplo de tareas AICLE:
 
 *   [SGAguilar Javier Ramos: Physics in our daily lifes.](http://sgaguilarjramos.blogspot.com.es/2017/04/project-physics-in-our-daily-life.html)  
-
-Guardar
-
-Guardar

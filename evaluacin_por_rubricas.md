@@ -2,7 +2,7 @@
 
 Las rúbricas de evaluación son instrumentos que permiten evaluar el desempeño de un alumno en una tarea compleja,un proyecto de aprendizaje o una unidad didáctica. Siempre lo hacemos a través de objetivos concretos asignando diferentes grados de consecución de los mismos. La rúbrica que se realiza es importante que se entregue al principio de la tarea. 
 
-■     Nos permite valorar:
+Nos permite valorar:
 
 *   El aprendizaje alcanzado.
 *   Los conocimientos adquiridos. 

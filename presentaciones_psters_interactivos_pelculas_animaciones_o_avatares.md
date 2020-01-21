@@ -15,7 +15,6 @@ Son actividades muy interesantes para:
 *   [Photopeach](http://photopeach.com/): crea presentaciones en línea simplemente tomando como base fotos que tú tengas en tu equipo, que hagan los alumnos y que subas a su espacio. Las presentaciones pueden publicarse y compartirse en redes sociales así como insertarse en sitios web, blogs, etc.
 *   [Aurasma](http://www.aurasma.com/#/whats-your-aura): app para crear pósters con Realidad Aumentada desde tu dispositivo móvil.
 *   [Blabberize](http://blabberize.com/): herramienta en la nube para crear fotografías parlantes.
-*   [Fotobabble](http://www.fotobabble.com/): crea fotos y pases de diapositivas que hablan.
 *   [Thinglink](http://www.thinglink.com/): crea imágenes con puntos interactivos tras los que esconder texto, vídeo, audio, otras imágenes o enlaces a redes sociales, que además pueden embeberse en tu propio espacio web.
 *   [Voki](http://www.voki.com/): crea animaciones con avatares que hablan en varias lenguas, que pueden utilizarse para trabajar competencias en comunicación lingüística. Muy fácil se usar, puede embeberse en cualquier otro espacio web.
 *   [Domoanimate](http://domo.goanimate.com/): editor de animaciones en línea; fácil de utilizar y muy atractivo visualmente, en especial para alumnado joven, de Infantil y Primaria.
