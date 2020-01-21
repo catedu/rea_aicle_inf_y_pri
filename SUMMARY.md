@@ -31,7 +31,7 @@
     * [Otros recursos y materiales auténticos](otros_recursos_y_materiales_autnticos.md)
     * [Crea tus propios recursos](crea_tus_propios_recursos.md)
 
-## Marzo19\_AICLE\_IP\_1: REA y la elaboración de materiales AICLE
+## REA y la elaboración de materiales AICLE
 
 * [BLOQUE III:REA y la elaboración de materiales AICLE](index1.md)
   * [Diseño de sesiones y unidades AICLE a partir de REA](diseo_de_sesiones_y_unidades_aicle_a_partir_de_rea.md)
@@ -40,7 +40,7 @@
   * [Integración de REA en unidades y materiales AICLE](integracin_de_rea_en_unidades_y_materiales_aicle.md)
     * [Claves para el diseño de unidades y actividades AICLE](claves_para_el_diseo_de_unidades_y_actividades_aicle.md)
     * [Uso y transformación de REA](uso_y_transformacin_de_rea.md)
-    * [Ejemplo: Partes y funciones de una flor](ejemplo_partes_y_funciones_de_una_flor.md)
+      * [Ejemplo: Partes y funciones de una flor](ejemplo_partes_y_funciones_de_una_flor.md)
   * [Uso de herramientas TIC para transformación y elaboración de contenidos AICLE](uso_de_herramientas_tic_para_transformacin_y_elaboracin_de_contenidos_aicle.md)
     * [Creación de ejercicios interactivos](creacin_de_ejercicios_interactivos.md)
     * [Organizadores de ideas](organizadores_de_ideas.md)

@@ -12,6 +12,6 @@ A la hora de utilizar los recursos para el aula AICLE e integrarlos en el diseñ
 
 La siguiente presentación incluye más detalles al respecto, detalles que te pueden inspirar a la hora de usar los recursos educativos en el aula AICLE.
 
-[Libro con contenido digital (SlideShare) - Claves para el diseño de materiales AICLE - Isabel Pérez](http://www.slideshare.net/isaperez/claves-aicle-intef?ref=http://127.0.0.1:51236/REAaicle_02_15_T3_Materiales/authoring)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qHJWb5GnN4tB8p" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/isaperez/claves-aicle-intef" title="Claves para el diseño de materiales AICLE" target="_blank">Claves para el diseño de materiales AICLE</a> </strong> from <strong><a href="https://www.slideshare.net/isaperez" target="_blank">isaperez</a></strong> </div>
 
-Guardar
+

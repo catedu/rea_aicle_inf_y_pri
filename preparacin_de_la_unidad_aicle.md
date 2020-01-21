@@ -33,4 +33,3 @@ Una vez acordado el uso de una plantilla que nos ayude al diseño, **el proceso
 
 **Estos pasos no necesariamente tienen que darse en ese orden,** lo normal sería partir de los objetivos y contenidos pero en ocasiones también partiremos del recurso que hemos encontrado.
 
-Guardar

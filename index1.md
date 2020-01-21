@@ -1,8 +1,8 @@
 # BLOQUE III:REA y la elaboración de materiales AICLE
 
-En el bloque de contenidos anterior hemos tenido ocasión de visitar numerosos sitios en la Red y seleccionar recursos, tanto formativos como informativos, encontrados bien en repositorios de REA como en otros, no específicamente educativos pero también útiles y de interés. Los hemos guardado haciendo uso de agregadores sociales o marcadores o en nuestros espacios en la nube. También los hemos compartido en las redes y/o en el espacio de [Procomún](https://procomun.educalab.es/es/comunidades/uso-de-rea-para-aicle).
+En el bloque de contenidos anterior hemos tenido ocasión de visitar numerosos sitios en la Red y seleccionar recursos, tanto formativos como informativos, encontrados bien en repositorios de REA como en otros, no específicamente educativos pero también útiles y de interés.
 
-**Todos ellos nos ayudarán a** **mejorar y planificar el trabajo en el aula AICLE****incorporándolos a los materiales que ya tenemos,**
+**Todos ellos nos ayudarán a mejorar y planificar el trabajo en el aula AICLE incorporándolos a los materiales que ya tenemos.**
 
 **En el presente bloque completaremos lo aprendido sobre AICLE analizando formas posibles de utilizar los recursos que hemos seleccionado** en la práctica AICLE.
 
@@ -19,5 +19,3 @@ Por tanto, en el presente bloque apuntaremos brevemente posibles usos de esos re
 
  ![](img/tercerbloque.jpg)
 
-
-Guardar
