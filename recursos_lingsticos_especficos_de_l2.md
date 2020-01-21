@@ -13,7 +13,7 @@ Fundamentalmente, destacamos los diccionarios, glosarios, aplicaciones(o página
 
 [![REA AICLE bloque 2 Diccionario](img/Captura_collins_dictionary.PNG "Collins dictionary")](http://www.collinsdictionary.com/)  
 
-En primer lugar vamos a destacar los **diccionarios**, sobre todo los que ofrecen imágenes y pronunciación. Así, por ejemplo, encontramos desde diccionarios tradicionales muy completos1 a diccionarios interactivos, que transforman una página en un corpus con opción a traducir cada una de las palabras en el mismo contexto de la página2 o diccionarios visuales3 o sólo de pronunciación4. Este tipo de recursos pueden darse a conocer a los alumnos para que hagan uso de ellos cuando los necesiten, de una manera autónoma. A continuación destacamos algunos enlaces útiles.
+En primer lugar vamos a destacar los **diccionarios**, sobre todo los que ofrecen imágenes y pronunciación. Así, por ejemplo, encontramos desde diccionarios tradicionales muy completos [^1] a diccionarios interactivos, que transforman una página en un corpus con opción a traducir cada una de las palabras en el mismo contexto de la página [^2] o diccionarios visuales [^3] o sólo de pronunciación [^4]. Este tipo de recursos pueden darse a conocer a los alumnos para que hagan uso de ellos cuando los necesiten, de una manera autónoma. A continuación destacamos algunos enlaces útiles.
 
 Los **glosarios** específicos de materias serán también una herramienta muy útil para apoyar el aula AICLE, algunos ejemplos en inglés [Audioglosario de Geografía de 1º ESO, ](http://www.students.linguaframe.com/gh1-audio-glossary)[Diccionario de matemáticas](http://www.amathsdictionaryforkids.com/dictionary.html). Un enlace interesante es el glosario para [profesores CLIL](http://www.cambridgeenglish.org/images/22194-tkt-clil-glossary-document.pdf) de la Universidad de Cambridge Más enlaces de este tipo pueden consultarse en [esta página](http://isabelperez.com/tesllinks2.htm).
 
@@ -46,7 +46,7 @@ Además de las aquí mencionadas, existen muchas [apps](https://es.pinterest.com
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   
-1[Macmillan Dictionary](http://www.macmillandictionary.com/), [Oxford Dictionary](https://en.oxforddictionaries.com/), [Cambridge Thesaurus](http://dictionary.cambridge.org/es/index.html), [Wordreference.com,](http://www.wordreference.com/)  
-2 [Lingro.com](http://lingro.com/),  
-3[Merriam Webster visual dictionary](http://visual.merriam-webster.com/index.php), [Shahi visual dictionary,](http://blachan.com/shahi/) [Lo que veo](http://www.leoloqueveo.org/), [Language guide](http://www.languageguide.org/english/) (en muchas lenguas)  
-4[Howjsay](http://www.howjsay.com/)
+[1]: [Macmillan Dictionary](http://www.macmillandictionary.com/), [Oxford Dictionary](https://en.oxforddictionaries.com/), [Cambridge Thesaurus](http://dictionary.cambridge.org/es/index.html), [Wordreference.com,](http://www.wordreference.com/)  
+[2]: [Lingro.com](http://lingro.com/),  
+[3]: [Merriam Webster visual dictionary](http://visual.merriam-webster.com/index.php), [Shahi visual dictionary,](http://blachan.com/shahi/) [Lo que veo](http://www.leoloqueveo.org/), [Language guide](http://www.languageguide.org/english/) (en muchas lenguas)  
+[4]: [Howjsay](http://www.howjsay.com/)

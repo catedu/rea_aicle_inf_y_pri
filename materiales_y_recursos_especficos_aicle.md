@@ -16,12 +16,10 @@ He aquí algunos de los sitios que conocemos donde podemos encontrarlos, la mayo
 ![REA AICLE bloque 2 licencias estancias profesionales](img/licencias_bloque_2_pagina_12.jpg "Licencias Estancias profesionales Xtec")  
 
   
-
-*   [Otro materiales bilingües de primaria inglés y secundaria francés](http://vandelvira.org/index.php/2013-12-19-17-59-05) de la Junta de Andalucía (2006)
 *   [Unidades didácticas del Proyecto Conbat+](http://conbat.ecml.at/DidacticUnits/tabid/2670/language/en-GB/Default.aspx) (_European Centre for Modern Languages_). Principalmente para 6º Primaria y primer ciclo de la ESO.
 *   Materiales creados por otros compañeros y que los comparten en páginas que ellos crean o en espacios de la Web 2.0 (blogs, wikis, etc.).
 
-Un buen ejemplo de primaria es la página del [CEIP San Miguel](http://schoolsanmiguel.blogspot.com.es/p/2-ciclo.html) donde, entre otras cosas, se encuentran numerosas unidades elaboradas por los profesores bilingües del centro o el wiki del [CEIP San Roque](http://pepagomez.wikispaces.com/).
+Un buen ejemplo de primaria es la página del [CEIP San Miguel](http://schoolsanmiguel.blogspot.com.es/p/2-ciclo.html) donde, entre otras cosas, se encuentran numerosas unidades elaboradas por los profesores bilingües del centro.
 
 Para ver más ejemplos, visita la página web de [Isabel Pérez](http://www.isabelperez.com/clil/clicl_m_6.htm).
 
@@ -32,7 +30,7 @@ Además de los textos que lógicamente pueden ser útiles para el aula y para la
 *   Vídeos, animaciones e imágenes de los que ya hemos hablado. Ejemplos: _[Daily routine](https://youtu.be/eUXkj6j6Ezw)_, _[Parts of a plan video](https://youtu.be/X6TLFZUC9gI)_ o _[5 things a plant needs to live song](https://youtu.be/dUBIQ1fTRzI)_
 
 *   Tarjetas (_flashcards_), animaciones, ejercicios interactivos (_quizzes_), experimentos, presentaciones. Por ejemplo, los que se ven en las siguientes páginas: _[flashcards](http://www.mes-english.com/flashcards.php)_, [mapas interactivos](http://serbal.pntic.mec.es/ealg0027/flashmaps.htm), [ejercicios](http://eu.ixl.com/math/), [experimentos](http://www.thenakedscientists.com/HTML/experiments/), [presentaciones](http://www.pppst.com/), [animaciones](https://www.stem.org.uk/elibrary/collection/3344).
-*   También, actividades más completas tipo [cazas del tesoro](http://www.isabelperez.com/taller1/aprendizaje_tareas_2.htm "cazas del tesoro") ([_Treasure hunts_](http://www.wemburyprimary.co.uk/maths-treasure-hunt/)_/scavenger hunts_), [Webtasks](http://www.isabelperez.com/taller1/aprendizaje_tareas_4.htm "webtasks") como la del [CEIP Camacho Melendo](http://ceipcamachomelendo.es/wt_londoner_school_4_english/information.htm) o [WebQuests](https://aprimaryschoolteacher.wordpress.com/2012/08/18/webquests/).
+*   También, actividades más completas tipo [cazas del tesoro](http://www.isabelperez.com/taller1/aprendizaje_tareas_2.htm "cazas del tesoro"), [Webtasks](http://www.isabelperez.com/taller1/aprendizaje_tareas_4.htm "webtasks")o [WebQuests](https://aprimaryschoolteacher.wordpress.com/2012/08/18/webquests/).
 *   Actividades listas para usar: muestras de editoriales _[The bean](http://www.deltapublishing.co.uk/content/pdf/the-clil-resource-pack/CLIL_U4_Lesson_1a.pdf)_, _[Life cycles](http://www.deltapublishing.co.uk/content/pdf/the-clil-resource-pack/CLIL_U4_Lesson_3b.pdf)_, _[Finish the picture](http://www.teachingideas.co.uk/subjects/finish-the-picture)_.
 
 
@@ -49,8 +47,6 @@ En los siguientes enlaces podéis dar un paseo por este tipo de recursos:
 
 **En Inglés:**
 
-[Primary CLIL worksites](https://grahamworkmanprimary.wikispaces.com/Primary+CLIL+websites): wiki del profesor Graham Workman con multitud de recursos para el aula AICLE y para inglés en primaria.
-
 [SEN Teacher](http://www.senteacher.org/Print/Literacy/) página originalmente ideada para estudiantes con dificultades especiales, pero útil para todo tipo de alumnos. Contiene fichas para imprimir, enlaces, descargas e instrumentos de búsqueda muy útiles para el profesor. Ofrece material de todas las áreas.
 
 [Sparklebox](http://www.sparklebox.co.uk/) material para el aula listo para descargar. También ofrece recursos en castellano.
@@ -66,5 +62,3 @@ En el caso de los vídeos, si permiten que se inserten en una web es porque el a
 
 
 También podemos hacerlo desde un sitio web que tengamos, ya sea en la página de nuestro centro o en otros espacios de la Web 2.0 que hemos visto en el apartado Organización y alojamiento de materiales.
-
-Guardar
