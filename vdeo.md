@@ -14,7 +14,7 @@ En las mediatecas enlazadas anteriormente también podemos encontrar vídeos, pe
 YouTube ofrece no sólo su  canal [YouTube Educación](http://www.youtube.com/education?t=m "You Tube educación") donde contribuyen y comparten los profesores catalogando los vídeos subidos sino que puedes subscribirte a aquel canal que más vayas a aprovechar en tu práctica docente. En [este artículo](http://www.educatorstechnology.com/2013/11/30-youtube-channels-for-teachers.html) (en inglés) encontrarás los 30 canales de YouTube recomendados por _Educators Technology_.
 
 *   [Edutopia videos](https://www.edutopia.org/videos)  videos que evidencian la práctica educativa en primaria en EEUU.  Pueden ser muy útiles para el propio docente a la hora de buscar experiencias nuevas para su aula, así como para los alumnos.Recomendamos ver _[Engaging Parents of English-Language Learners](https://www.edutopia.org/blog/engaging-parents-english-language-learners)_.
-*   [Vimeo](http://vimeo.com/68015675 "Vimeo") es una de las mejores opciones para compartir y encontrar vídeos, con una búsqueda avanzada que permite seleccionar la licencia.
+*   [Vimeo](http://vimeo.com) es una de las mejores opciones para compartir y encontrar vídeos, con una búsqueda avanzada que permite seleccionar la licencia.
 *   [Videopedia ](http://www.vidipedia.org/)la wikipedia de los vídeos.
 *   [HowStuff Works ](http://videos.howstuffworks.com/)Vídeos interesantes de muchos temas educativos.
 *   [Slowmation](http://www.slowmation.com/) página australiana con videos de ejemplo y material educativo sobre la creación de videos explicativos para infantil y primer ciclo primaria.
@@ -22,7 +22,6 @@ YouTube ofrece no sólo su  canal [YouTube Educación](http://www.youtube.com/e
 *   [NeoK12](http://www.neok12.com/) Videos y juegos educativos primaria.
 *   [Khan Academy ](https://www.khanacademy.org/#search-khan-academy "Khanacademy")Uno de los repositorios educativos de vídeos que más ha progresado y que incluye sobre todo vídeos de ciencia y matemática pero que está expandiéndose en otras áreas. Aunque los vídeos son en inglés muchos están subtitulados y se puede colaborar en la subtitulación igualmente.
 *   [Teacher TV ](https://www.education.gov.uk/schools/toolsandinitiatives/teacherstv/ "Teacher TV")espacio del departamento de Educación del Reino Unido donde aparecen otros enlaces a vídeos educativos que pueden ser de mucho interés para AICLE en inglés.
-*   [ZANE educación](http://www.zaneeducation.com/Videos/Videos-Introducción.php) aprendizaje visual y vídeos con subtítulos.
 
 Estos vídeos que encontramos en la Red suelen permitir ser insertados en otras páginas, blogs o wikis; la otra opción que tenemos es enlazarlos o  descargarlos usando distintas aplicaciones, dependiendo del sistema operativo que tengamos y del navegador.
 
@@ -39,5 +38,3 @@ En ocasiones el vídeo que queremos utilizar en el aula nos interesaría que est
 
 ![REA AICLE bloque 2 Amara](img/amara_bloque_2_p_10.png "Subtitular vídeos con Amara")
 
-
-Guardar

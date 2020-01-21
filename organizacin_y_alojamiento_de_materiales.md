@@ -2,7 +2,7 @@
 
 Una vez te has embarcado en la búsqueda del material te encuentras ante el problema de dónde almacenar todos esos recursos que has encontrado de manera que estén organizados y sean fáciles de recuperar cuando lo necesites.  Es el momento de usar herramientas de organización y marcación social que te permiten encontrar todos esos recursos independientemente de qué dispositivo usaste cuando lo encontraste.
 
-Te podemos recomendar [Pinterest](https://es.pinterest.com/) o [Diigo](https://www.diigo.com/), siendo el primero más atractivo visualmente. En [Kit Digital](http://formacion.educalab.es/course/view.php?id=483) encuentras un [tutorial sobre cómo usar Pinterest](http://formacion.educalab.es/mod/book/view.php?id=39679) y también encontrarás m[ás información sobre ambos.](http://formacion.educalab.es/mod/book/view.php?id=39248&chapterid=5237)
+Te podemos recomendar [Pinterest](https://es.pinterest.com/) o [Diigo](https://www.diigo.com/), siendo el primero más atractivo visualmente.
 
 Vamos ahora a analizar brevemente las posibilidades que la red nos ofrece para alojar las actividades y materiales que diseñemos, así como para almacenar imágenes, vídeos, presentaciones, ejercicios, etc.
 
@@ -23,4 +23,4 @@ Finalmente, la clave está en decidir **qué** tipo de **recurso** se necesita,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1 [AGREGA](http://agrega.educacion.es/visualizadorcontenidos2/Portada/Portada.do;jsessionid=10A682EE35AD8F0D7BCF36BDDFEB4D85 "Portal de AGREGA") es un proyecto desarrollado por las administraciones públicas españolas y el sector privado dentro del programa Internet en el Aula para facilitar a la comunidad educativa un repositorio de contenidos digitales curriculares en línea.
+ [AGREGA](http://agrega.educacion.es/visualizadorcontenidos2/Portada/Portada.do;jsessionid=10A682EE35AD8F0D7BCF36BDDFEB4D85 "Portal de AGREGA") es un proyecto desarrollado por las administraciones públicas españolas y el sector privado dentro del programa Internet en el Aula para facilitar a la comunidad educativa un repositorio de contenidos digitales curriculares en línea.

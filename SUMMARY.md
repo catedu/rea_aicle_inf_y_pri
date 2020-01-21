@@ -18,7 +18,7 @@
     * [Trabajo por tareas](trabajo_por_tareas.md)
     * [Las Rutinas de Pensamiento](las_rutinas_de_pensamiento.md)
 
-## Marzo19\_AICLE\_IP\_1: REA y otros recursos de utilidad para AICLE.
+## REA y otros recursos de utilidad para AICLE.
 
 * [BLOQUE II: REA y otros recursos de utilidad para AICLE](index0.md)
   * [Estrategias de búsqueda de REA](estrategias_de_bsqueda_de_rea.md)
