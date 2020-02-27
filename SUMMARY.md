@@ -14,7 +14,6 @@
     * [Flexibilidad y facilidad](flexibilidad_y_facilidad.md)
     * [Interacción, autonomía y variedad de recursos](interaccin_autonoma_y_variedad_de_recursos.md)
     * [Trabajo por tareas](trabajo_por_tareas.md)
-    * [Las Rutinas de Pensamiento](las_rutinas_de_pensamiento.md)
 
 ## BLOQUE II: Materiales AICLE
 
@@ -23,6 +22,7 @@
     * [Organización y alojamiento de materiales](organizacin_y_alojamiento_de_materiales.md)
     * [Imágenes y sonidos](imgenes_y_sonidos.md)
     * [Vídeo](vdeo.md)
+  * [Las Rutinas de Pensamiento](las_rutinas_de_pensamiento.md)
   * [Uso de herramientas TIC para transformación y elaboración de contenidos AICLE](uso_de_herramientas_tic_para_transformacin_y_elaboracin_de_contenidos_aicle.md)
     * [Creación de ejercicios interactivos](creacin_de_ejercicios_interactivos.md)
     * [Organizadores de ideas](organizadores_de_ideas.md)
