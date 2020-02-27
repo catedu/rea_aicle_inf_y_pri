@@ -8,9 +8,7 @@
   * [¿Por qué AICLE?](por_qu_aicle.md)
   * [¿Qué es AICLE?](qu_es_aicle.md)
   * [Principios y aspectos básicos de AICLE](principios_y_aspectos_bsicos_de_aicle.md)
-    * [Aprendizaje visible](aprendizaje_visible.md)
     * [Identificando la lengua](identificando_la_lengua.md)
-    * [Andamiaje](andamiaje.md)
     * [Atención a las distintas destrezas](atencin_a_las_distintas_destrezas.md)
   * [Elementos y características de la metodología AICLE](elementos_y_caractersticas_de_la_metodologa_aicle.md)
     * [Flexibilidad y facilidad](flexibilidad_y_facilidad.md)
@@ -51,6 +49,8 @@
 
 ## BLOQUE III: La evaluación en AICLE
 
+* [Andamiaje](andamiaje.md)
+* [Aprendizaje visible](aprendizaje_visible.md)
 * [Evaluación por Rubricas.](evaluacin_por_rubricas.md)
 
 ## BLOQUE IV: Modelo BRIT-Aragón

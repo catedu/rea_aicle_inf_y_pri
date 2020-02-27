@@ -1,6 +1,6 @@
 # ¿Por qué AICLE?
 
-El panorama educativo europeo ha experimentado importantes novedades en las últimas décadas, una de ellas es la introducción de las tecnologías en el aula y el otro cambio destacable está relacionado con la enseñanza de las lenguas siendo el [objetivo](http://www.sepie.es/) que todo el mundo en Europa pueda hablar al menos dos lenguas además de la lengua materna.
+El panorama educativo europeo ha experimentado importantes novedades en las últimas décadas, una de ellas es la introducción de las tecnologías en el aula y el otro cambio destacable está relacionado con la enseñanza de las lenguas siendo el [objetivo](http://www.sepie.es/) que todo ciudadano/a europeo pueda hablar al menos dos lenguas además de la lengua materna.
 
 Estos dos aspectos, **la introducción de las TIC y el aprendizaje de lenguas** se ven bien reflejados en el _[White Paper on Education and Training](http://cordis.europa.eu/news/rcn/7093_en.html): Teaching and Learning - Towards the Learning Society_ publicado en 1995 por la Comisión de la Comunidad Europea y en posteriores publicaciones[^1] donde se establecen los planes de acción para promover el aprendizaje de lenguas y el uso de Recursos Educativos Abiertos (REA). Ambos puntos se encuentran entre las prioridades para los estados miembro en el documento publicado en el año 2012 _[Rethinking Education: Investing in skills for better socio-economic outcomes](com669_en.pdf)_ donde se establecen entre las prioridades "Potenciar la oferta de aptitudes transversales que aumentan la empleabilidad, como la iniciativa emprendedora, las aptitudes digitales y los idiomas" e "Intensificar el uso del aprendizaje asistido por TIC y el acceso a REA de alta calidad" (p.17).
 
@@ -16,9 +16,9 @@ D. Coyle y otros (2010) distinguen dos razones principales por las que se sostie
 
 **Desde un punto de vista pedagógico** existen numerosas razones por las que los programas bilingües y AICLE son recomendables:
 
-*   En primer lugar ofrecen ventajas para el desarrollo cognitivo de los alumnos (Bialystock, 2009).
+*   En primer lugar ofrecen ventajas para el desarrollo cognitivo del alumnado (Bialystock, 2009).
 *   Conllevan una ganancia significativa de la lengua objeto (L2) como lo demuestran numerosos estudios sobre inmersión lingüística en Canadá y AICLE en Europa.
-*   Favorecen la colaboración de los profesores entre sí y con la administración del centro ya que gran parte de la comunidad se verá implicada en el aprendizaje de la lengua y contenido.
+*   Favorecen la colaboración del profesorado entre sí y con la administración del centro ya que gran parte de la comunidad se verá implicada en el aprendizaje de la lengua y contenido.
 
 Observa cómo en el siguiente vídeo Hugo Baetens, referente en bilinguismo y CLIL de la Vrij Universiteit Brussel (VUB) alude a lo expresado en el punto anterior.  
   
