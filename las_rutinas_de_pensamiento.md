@@ -1,8 +1,8 @@
 # Las Rutinas de Pensamiento
 
-Dentro de la innovación metodológica que se está llevando a cabo en las aulas una de los grandes apartados puede ser la Cultura del Pensamiento que también puede ser incluida como elemento importante en la metodología bilingüe.
+Dentro de la innovación metodológica que se está llevando a cabo en las aulas una de los grandes apartados puede ser la Cultura del Pensamiento que también puede ser incluida como elemento importante en el aula bilingüe ya que uno de los pilares del enfoque AICLE es la cognición y el aprender a pensar.
 
-El trabajo de la Cultura del pensamiento se realiza mediante la inclusión en el aula de las Rutinas de pensamiento de una forma sistemática para ayudar al alumnado a desarrollarla y habituarse a dicha cultura y forma de trabajo.
+El trabajo de la Cultura del pensamiento se puede realizar mediante la inclusión en el aula de las Rutinas de pensamiento, entre otras herramientas, de una forma sistemática para ayudar al alumnado a desarrollarla y habituarse a dicha cultura y forma de trabajo.
 
 Las rutinas de pensamiento fueron desarrolladas por los investigadores del Proyecto Zero de la Universidad de Harvard en 2008, estas son estructuras cognitivas básicas que acompañadas de algún tipo de organizador gráfico promueven el pensamiento en el alumnado, en definitiva, ayudan a hacer el pensamiento más visible. 
 
