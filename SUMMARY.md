@@ -48,6 +48,5 @@
 
 * [¿Qué es el Modelo BRIT-Aragón?](que-es-el-modelo-brit-aragon.md)
 * [El Itinerario Bilingüe](el-itinerario-bilingue.md)
-* [Claves para la coordinación](claves-para-la-coordinacion.md)
 * [Créditos](crditos-buenos.md)
 
