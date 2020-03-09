@@ -1,14 +1,11 @@
 # Recursos lingüísticos específicos de L2
 
-En este apartado vamos a tratar de  aquellos **recursos **y **materiales específicos para el aprendizaje de la lengua**, que en muchos casos se pueden utilizar en la clase AICLE para apoyar el aprendizaje de lengua y contenido. No obstante, es importante recordar el trabajo cooperativo entre el profesorado de la L2 y el profesorado AICLE.
+En este apartado vamos a tratar de  aquellos **recursos **y **materiales específicos para el aprendizaje de la lengua**, que en muchos casos se pueden utilizar en la clase AICLE para apoyar el aprendizaje de lengua y contenido. Te recomendamos visitar la web de la asesora del [CARLEE](https://www.carleearagon.es/), [Natalia López](https://natalialzam.wordpress.com/), con numerosos recursos, artículos y consejos sobre este tema. Para el profesorado de francés, recomendamos el [blog de Pepe Mas](https://francescarlee.blogspot.com/), asesor del [CARLEE ](https://www.carleearagon.es/)en lengua francesa.
 
-En las etapas de infantil y primaria el cerebro del niño está especialmente receptivo para desarrollar destrezas lingüísticas con gran rapidez. Para ello, hemos de proporcionar los suficientes estímulos para que las conexiones se produzcan en su cerebro y éste se ilumine.
-
-En la etapa de infantil los niños no dominan la lectoescritura, pero eso no impide trabajar en su desarrollo para su posterior consolidación en la etapa de primaria tanto en la legua materna como en la L2.
 
 De forma general hablaremos de recursos específicos para la L2 para luego especificar aquellos más específicos de Infantil/Primaria.
 
-Fundamentalmente, destacamos los diccionarios, glosarios, aplicaciones(o páginas web) para mejorar la pronunciación o la gramática. En el caso de los más jóvenes, cuanto más lúdicos sean estos recursos, mucho mayor será su avance. Asimismo, el mundo de las nuevas tecnologías ha abierto las puertas a una nueva manera de aprender, abriendo las puertas del aula y así logrando que la motivación del alumno y el deseo de aprender no termine en las puertas del colegio.
+Fundamentalmente, destacamos los diccionarios, glosarios, aplicaciones(o páginas web) para mejorar la pronunciación o la gramática. En el caso de los más jóvenes, cuanto más lúdicos sean estos recursos, mucho mayor será su avance. Asimismo, el mundo de las nuevas tecnologías ha abierto las puertas a una nueva manera de aprender, abriendo las puertas del aula y así logrando que la motivación del alumnado y el deseo de aprender no termine en las puertas del colegio.
 
 
 [![REA AICLE bloque 2 Diccionario](img/Captura_collins_dictionary.PNG "Collins dictionary")](http://www.collinsdictionary.com/)  

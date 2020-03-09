@@ -10,5 +10,7 @@ En este apartado veremos algunas de las herramientas que podemos usar para crear
 * Aprender a aprender.
 * Trabajar la competencia digital.
 
+También puedes visitar la web del asesor del [CARLEE](https://www.carleearagon.es/) en Teruel, Luis Gil, un [repositorio de recursos TIC](https://idiomastic.wixsite.com/idiomastic) para el aula de idiomas
+
 
 

@@ -19,7 +19,7 @@ Ejemplos de **tareas de recepción** son: recopilar o contrastar información so
 
 A continuación se enumeran algunas actividades que se pueden utilizar en el proceso para llevar a cabo tareas de recepción:
 
-* Asignar etiquetas o nombres, distribuir contenido. [Animals parts of the body](http://formacion.intef.es/pluginfile.php/214299/mod_imscp/content/1/08_Animals_parts_of_the_body.pdf), [Lex animaux marines.](http://clic.xtec.cat/db/act_es.jsp?id=2017) 
+* Asignar etiquetas o nombres, distribuir contenido. , [Lex animaux marines.](http://clic.xtec.cat/db/act_es.jsp?id=2017) 
 * Elegir parte del contenido de acuerdo a un criterio dado, etc. [Animal Riddle](http://www.meddybemps.com/riddles/Index.html)
 * Completar tablas, líneas del tiempo, diagramas, mapas conceptuales, etc.
 
