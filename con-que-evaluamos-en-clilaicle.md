@@ -12,28 +12,7 @@ Algunos de los más funcionales y veraces para el aula AICLE, son las **listas d
 
 #### 1. TAREAS DE OPCIÓN MÚLTIPLE
 
-Este tipo de pruebas suelen ser consideradas como las más “tradicionales”. A continuación hemos seleccionado algunos ejemplos que encajarían en esta categoría:
 
-* Pruebas de opción múltiple.
-* Ejercicios verdaderos / falsos.
-* Tipos de etiquetado.
-* Actividades para rellenar huecos.
-
-Cada una de estas opciones, tiene varias ventajas, pero también cuenta con aspectos no tan positivos. Por ello, finalmente todo dependerá de:
-
-1. **Contexto **_\(recursos y alumnado\)_
-2. **Popósito**
-3. **Utilidad**
-4. **Motivos por los que queremos evaluar**
-5. **Elementos susceptibles de ser valorados**
-
-Cabe matizar una vez más, y esta idea aparecerá de manera recurrente a lo largo de este enfoque, que ya no se trata tanto del tipo de instrumento o método, como del **equilibrio, variedad y frecuencia** con la que se use.
-
-Es decir, que seamos capaces de **utilizar distintos métodos, instrumentos y herramientas** **con cierta regularidad y de manera equilibrada**, evitando recurrir siempre a los mismos.
-
-Una de las peores consecuencias de abusar del uso de, por ejemplo, las preguntas de opción múltiple, es que estaríamos vulnerando la valoración de la producción lingüística del alumnado, y con ello, no estaríamos evaluando la lengua, tal y como requiere la evalución AICLE.
-
-De igual modo, y dependiendo de cómo estén redactadas estas preguntas, estaríamos también incurriendo en el error de no valorar habilidades de pensamiento de orden superior \(HOTS\)
 
 #### 2. TAREAS DE RESPUESTA ESCRITA
 
