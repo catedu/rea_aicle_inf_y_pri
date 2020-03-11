@@ -51,7 +51,9 @@ Es importante que éste se les enseñe a usar, y debería estar incluído entre 
 
 Este método de evaluación es frecuentemente entendido como cualquier **momento** en el que el **profesor** y el **alumno interactúan** de manera individual, intercambiando impresiones y **evidenciando** cual es el **nivel de comprensión** de los conceptos/contenidos o aspectos trabajados.
 
-Esta forma de evaluación es habitualmente descrita como muy efectiva, ya que en poco tiempo, permite al docente saber en qué punto se encuentra el alumno exactamente. No obstante, al igual que cualquier otro método, las conversaciones uno a uno, tienen varios aspectos negativos. Por ejemplo, el tiempo. No siempre se dispone del tiempo material necesario para ofrecer este tipo de conversaciones a todos los alumnos.
+Esta forma de **evaluación** es habitualmente descrita como **muy efectiva**, ya que en poco tiempo, permite al docente saber en qué punto se encuentra el alumno exactamente. 
+
+**No obstante**, al igual que cualquier otro método, las conversaciones uno a uno, tienen varios **aspectos negativos**. Por ejemplo, el **tiempo**. No siempre se dispone del tiempo material necesario para ofrecer este tipo de conversaciones a todos los alumnos.
 
 #### 4. PORTAFOLIOS
 
@@ -100,9 +102,9 @@ De deste modo, tendrán la oportunidad de saber qué elementos van a ser suscept
 
 Desde la perspectiva de la **integración del contenido y el lenguaje**, algunas tareas de rendimiento pueden **aumentar** en gran medida tanto la **demanda del lenguaje** como las oportunidades para un uso significativo del lenguaje.
 
-Por ejemplo, las **presentaciones orales** pueden ser un método** excelente** para **evaluar** el dominio de los estudiantes del **contenido** complejo, especialmente si son los resultados de su propia investigación, pero** también** requieren un alto nivel de fluidez y otras habilidades de **comunicación**. 
+Por ejemplo, las **presentaciones orales** pueden ser un método** excelente** para **evaluar** el dominio de los estudiantes del **contenido** complejo, especialmente si son los resultados de su propia investigación, pero** también** requieren un alto nivel de fluidez y otras habilidades de **comunicación**.
 
-Si no identificamos y planificamos cuidadosamente las demandas lingüísticas de las tareas de evaluación del desempeño, como las presentaciones orales, nuestra evaluación del conocimiento del contenido puede estar "contaminada" por factores del lenguaje. 
+Si no identificamos y planificamos cuidadosamente las demandas lingüísticas de las tareas de evaluación del desempeño, como las presentaciones orales, nuestra evaluación del conocimiento del contenido puede estar "contaminada" por factores del lenguaje.
 
 Este problema puede reducirse si hacemos explícitas las demandas del lenguaje y las incluimos como parte de nuestros criterios de evaluación.
 
