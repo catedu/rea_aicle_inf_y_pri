@@ -10,7 +10,7 @@ Por ello, resulta de vital importancia **alternar** **métodos, instrumentos** y
 
 Algunos de los más funcionales y veraces para el aula AICLE, son las **listas de verificación** y **rúbricas** que establecen en detalle los criterios que estamos utilizando para evaluar a los estudiantes, pero aparte de ello, contamos con gran variedad de estrategias como: Tareas de respuestas seleccionadas; 2. Tareas de respuesta escritas; 3. Presentaciones orales
 
-#### 1. Tareas de respuestas seleccionadas
+#### 1. TAREAS DE OPCIÓN MÚLTIPLE
 
 Este tipo de pruebas suelen ser consideradas como las más “tradicionales”. A continuación hemos seleccionado algunos ejemplos que encajarían en esta categoría:
 
@@ -31,27 +31,29 @@ Cabe matizar una vez más, y esta idea aparecerá de manera recurrente a lo larg
 
 Es decir, que seamos capaces de **utilizar distintos métodos, instrumentos y herramientas** **con cierta regularidad y de manera equilibrada**, evitando recurrir siempre a los mismos.
 
-Una de las peores consecuencias de abusar del uso de, por ejemplo, las preguntas de opción múltiple, es que estaríamos vulnerando la valoración de la producción lingüística del alumnado, y con ello, no estaríamos evaluando la lengua, tal y como requiere la evalución CLIL.
+Una de las peores consecuencias de abusar del uso de, por ejemplo, las preguntas de opción múltiple, es que estaríamos vulnerando la valoración de la producción lingüística del alumnado, y con ello, no estaríamos evaluando la lengua, tal y como requiere la evalución AICLE.
 
 De igual modo, y dependiendo de cómo estén redactadas estas preguntas, estaríamos también incurriendo en el error de no valorar habilidades de pensamiento de orden superior \(HOTS\)
 
-#### 2. Tareas de respuesta escritas
+#### 2. TAREAS DE RESPUESTA ESCRITA
 
-En relación a este tipo de tareas, cabe destacar que para un satisfactorio desarrollo de las mismas, el alumnado debe generar producciones textuales elaboradas de mayor extensión. Ello implica un nivel de exigencia superior en términos de lenguaje, ya que no solo deben reflejar sus ideas, si no hacerlo a través de un discurso estructurado y coherentemente articulado ya sea a nivel frase, párrafo o texto.
+En relación a este tipo de tareas, cabe destacar que para un satisfactorio desarrollo de las mismas, el alumnado debe generar **producciones textuales** elaboradas de **mayor extensión**. Ello implica un **nivel de exigencia superior** en términos **de lenguaje**, ya que no solo deben reflejar sus ideas, si no hacerlo a través de un discurso estructurado y coherentemente articulado ya sea a nivel frase, párrafo o texto.
 
-De un modo u otro, los alumnos se ven obligados demostrar un nivel cognitivo y de procesamiento de la información de mayor complejidad utilizando la lengua en la que están aprendiendo ese contenido.
+De un modo u otro, el** alumnado** se ve obligado a **demostrar un nivel cognitivo** y de** procesamiento** de la información de mayor complejidad **utilizando** la lengua **vehicular** en la que están aprendiendo ese contenido.
 
-Resulta de gran utilidad, por parte del docente, el establecer de manera clara cuales son las expectativas y las demandas del lenguaje para este tipo de tareas.
+En este sentido, resulta de gran **utilidad,** por parte del **docente**, el **establecer** de manera clara cuales son las **expectativas** y las **demandas** **del lenguaje **para este tipo de tareas.
 
-Por ejemplo, si el propósito de una tarea es explicar la manera en la que un acontecimiento ha sucedido, los alumnos necesitarán utilizar el lenguaje de causa y efecto. Es importante que éste se les enseñe a usar, y debería estar incluído entre los criterios de evaluación. De esta forma, las tareas de producción de textos orales y/o escritos, conforman una potente manera de integrar contenido y lenguaje en la evaluación
+Por ejemplo, si el propósito de una tarea es explicar la manera en la que un acontecimiento ha sucedido, los alumnos necesitarán utilizar el lenguaje de causa y efecto.
 
-#### 3. Comunicación uno a uno
+Es importante que éste se les enseñe a usar, y debería estar incluído entre los criterios de evaluación. De esta forma, las tareas de producción de textos orales y/o escritos, conforman una potente manera de integrar contenido y lenguaje en la evaluación
 
-En este sentido, entendemos este mñetodo de evaluación, como cualquier momento en el que el profesor y el alumno interactúan de manera individual, intercambiando impresiones y dejando claro cual es el nivel de comprensión de los conceptos/contenidos o aspectos trabadsos en clase.
+#### 3. COMUNICACIÓN UNO A UNO
 
-Éste método es muy efectivo, ya que en poco tiempo, permite al docente saber en qué punto se encuentra el alumno exactamente. No obstante, al igual que cualquier otro método, las conversaciones uno a uno, tienen varios aspectos negativos. Por ejemplo, el tiempo. No siempre se dispone del tiempo material necesario para ofrecer este tipo de conversaciones a todos los alumnos.
+Este método de evaluación es frecuentemente entendido como cualquier **momento** en el que el **profesor** y el **alumno interactúan** de manera individual, intercambiando impresiones y **evidenciando** cual es el **nivel de comprensión** de los conceptos/contenidos o aspectos trabajados.
 
-1. PORTAFOLIOS
+Esta forma de evaluación es habitualmente descrita como muy efectiva, ya que en poco tiempo, permite al docente saber en qué punto se encuentra el alumno exactamente. No obstante, al igual que cualquier otro método, las conversaciones uno a uno, tienen varios aspectos negativos. Por ejemplo, el tiempo. No siempre se dispone del tiempo material necesario para ofrecer este tipo de conversaciones a todos los alumnos.
+
+#### 4. PORTAFOLIOS
 
 Los portafolios son una recoplación de diferentes muestras de trabajo de los estudiante a lo largo de su proceso de aprendizaje. Éstos deben incluír una breve descripción y contexto del tipo de tareas que lo van a componer, así como los proncipales detalles y datos de su propietario.
 
@@ -61,13 +63,15 @@ El último aspecto a conemplar, es la cronología. Las fechas y los títulos de 
 
 En CLIL y en los programas de educación bilingüe, los portafolios se pueden usar para proporcionar evidencia del aprendizaje de los estudiantes sobre el contenido académico y el desarrollo del lenguaje y la alfabetización.
 
-1. AUTOEVALUACIÓ Y EVALUACIÓN ENTRE IGUALES
+#### 5. AUTOEVALUACIÓ Y EVALUACIÓN ENTRE IGUALES
 
-Lo que entendemos por evaluación entre iguales, es el “feedback” o retroalimentación faciltado/aportado entre iguales. No obstante, esta información no se basa en el criterio personal de cada alumno, si no en una serie de requisitos o criterios de éxito \(normalemnte recogidos en una “checklist” o lista de verificación\).
+Lo que entendemos por evaluación entre iguales, es el “feedback” o retroalimentación faciltado/aportado entre aprendices que se encuentran en una misma categoría. Es decir, ambos son estudiantes del mismo grupo o de la misma materia. De algún modo este enfoque favorece la ruptura con una jerarquía no escrita presente en las aulas, en la que los roles se nivelan y dejan de ser informaciones transmitidas de "docente a alumno", o vicebersa, si no de "alumno a alumno". 
 
-De este modo, los alumnos “revisan” el trabajo de sus compañeros buscando en las tareas presentadas, todos aquellos elementos o características que, según las listas de verificación facilitadas por el docente, cada entrega debería incluír.
+En este sentido, cabe matizar que la retroalimentación facilitada, no se basa en el criterio personal de cada alumno, si no en una serie de requisitos o criterios de éxito \(normalemnte recogidos en una “checklist” o lista de verificación\), facilitados entre el alumando con antelación. 
 
-1. Otro tipo de tareas
+El proceso de evaluación entre iguales \(o de autoevaluación, según corresponda\), queda así matizado, trasnfiriendo al alumnado un rol activo en el que éste debe "revisar” el trabajo de sus compañeros. Para ello, deberán buscar en las tareas presentadas, todos aquellos elementos o características que, según las listas de verificación facilitadas por el docente, cada entrega debería incluír.
+
+#### 6. OTRO TIPO DE TAREAS
 
 Aparte de las anteriores, existen otro tipo de tareas como: Presentaciones orales; Juegos de roles;
 
