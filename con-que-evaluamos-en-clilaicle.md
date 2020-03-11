@@ -1,9 +1,8 @@
+# ¿Cómo llevarlo a la práctica?
+
 Una vez tengamos claro el enfoque de nuestra evaluación, los motivos por los que queremos llevarla a cabo, y el método que vamos a usar, es momento de valorar qué instrumentos usraremos para tal efecto.
 
 Normalmente y de manera inconsciente, los docentes nos dejamos llevar en mayor o menor medida, por las impresiones y por los detalles que percibimos acerca de las intervenciones de nuestros alumnos. El uso de observaciones directas y el registro de anédotas resulta útil, pero en un determinado momento, puede conducirnos a perder la objetividad. Por ello, resulta de vital importancia alternar métodos, instrumentos y herramientas de evaluación. Algunos de los más funcionales y veraces para el aula CLIL, son las listas de verificación y rúbricas que establecen en detalle los criterios que estamos utilizando para evaluar a los estudiantes.
-
-      
-
 
 1. Tareas de respuesta seleccionadas
 
@@ -17,9 +16,6 @@ Tipos de etiquetado.
 
 Actividades para rellenar huecos.
 
-      
-
-
 Cada una de estas opciones, tiene sus ventajas y aspectos positivos, pero también otros no tan ventajosos. Por ello, al final todo dependerá del contexto, propósito, utilidad, motivos por los que queremos evaluar, elementos susceptibles de ser valorados, y finalmente del tipo de alumnado con el que estemos trabajando.
 
 Cabe matizar una vez más, y esta idea aparecerá de manera recurrente a lo largo de este enfoque. La concepción de que ya no se trata tanto del tipo de instrumento o método, como del equilibrio, variedad y frecuencia con la que se use.
@@ -30,27 +26,15 @@ Una de las peores consecuencias de abusar del uso de, por ejemplo, las preguntas
 
 De igual modo, y dependiendo de cómo estén redactadas estas preguntas, estaríamos también incurriendo en el error de no valorar habilidades de pensamiento de orden superior \(HOTS\).
 
-      
-
-
 1. Tareas de respuesta escritas
 
 En relación a este tipo de tareas, cabe destacar que para un satisfactorio desarrollo de las mismas, el alumnado debe generar producciones textuales elaboradas de mayor extensión. Ello implica un nivel de exigencia superior en términos de lenguaje, ya que no solo deben reflejar sus ideas, si no hacerlo a través de un discurso estructurado y coherentemente articulado ya sea a nivel frase, párrafo o texto.
 
 De un modo u otro, los alumnos se ven obligados demostrar un nivel cognitivo y de procesamiento de la información de mayor complejidad utilizando la lengua en la que están aprendiendo ese contenido.
 
-      
-
-
 Resulta de gran utilidad, por parte del docente, el establecer de manera clara cuales son las expectativas y las demandas del lenguaje para este tipo de tareas.
 
-      
-
-
 Por ejemplo, si el propósito de una tarea es explicar la manera en la que un acontecimiento ha sucedido, los alumnos necesitarán utilizar el lenguaje de causa y efecto. Es importante que éste se les enseñe a usar, y debería estar incluído entre los criterios de evaluación. De esta forma, las tareas de producción de textos orales y/o escritos, conforman una potente manera de integrar contenido y lenguaje en la evaluación.
-
-      
-
 
 1. Otro tipo de tareas
 
@@ -74,27 +58,15 @@ Seccionesen las que se desarrolle el contenido de manera fluía y dinámica.
 
 Breve cierredel artículo en el que se dibujen conclusiones o reflexiones finales.
 
-      
-
-
 Los juicios sobre la calidad del proceso o los resultados deben guiarse por un instrumento como una lista de verificación o una rúbrica, que debería ser negociada y compartida con los alumnos antes de comenzar a realizar la tarea propuesta. De deste modo, tendrán la oportunidad de saber qué elementos van a ser susceptibles de ser evaluados y qué aspectos son considerados dentro de las expectativas del docente.
 
-      
-
-
 Desde la perspectiva de la integración del contenido y el lenguaje, algunas tareas de rendimiento pueden aumentar en gran medida tanto la demanda del lenguaje como las oportunidades para un uso significativo del lenguaje. Por ejemplo, las presentaciones orales pueden ser un método excelente para evaluar el dominio de los estudiantes del contenido complejo, especialmente si son los resultados de su propia investigación, pero también requieren un alto nivel de fluidez y otras habilidades de comunicación. Si no identificamos y planificamos cuidadosamente las demandas lingüísticas de las tareas de evaluación del desempeño, como las presentaciones orales, nuestra evaluación del conocimiento del contenido puede estar "contaminada" por factores del lenguaje, o construya una varianza irrelevante como vimos anteriormente. Este problema puede reducirse si hacemos explícitas las demandas del lenguaje y las incluimos como parte de nuestros criterios de evaluación.
-
-      
-
 
 4.5. Comunicación uno a uno
 
 En este sentido, entendemos este mñetodo de evaluación, como cualquier momento en el que el profesor y el alumno interactúan de manera individual, intercambiando impresiones y dejando claro cual es el nivel de comprensión de los conceptos/contenidos o aspectos trabadsos en clase.
 
 Éste método es muy efectivo, ya que en poco tiempo, permite al docente saber en qué punto se encuentra el alumno exactamente. No obstante, al igual que cualquier otro método, las conversaciones uno a uno, tienen varios aspectos negativos. Por ejemplo, el tiempo. No siempre se dispone del tiempo material necesario para ofrecer este tipo de conversaciones a todos los alumnos.
-
-      
-
 
 PORTAFOLIOS
 
@@ -106,26 +78,11 @@ El último aspecto a conemplar, es la cronología. Las fechas y los títulos de 
 
 En CLIL y en los programas de educación bilingüe, los portafolios se pueden usar para proporcionar evidencia del aprendizaje de los estudiantes sobre el contenido académico y el desarrollo del lenguaje y la alfabetización.
 
-      
-
-
 AUTOEVALUACIÓ Y EVALUACIÓN ENTRE IGUALES
 
 Lo que entendemos por evaluación entre iguales, es el “feedback” o retroalimentación faciltado/aportado entre iguales. No obstante, esta información no se basa en el criterio personal de cada alumno, si no en una serie de requisitos o criterios de éxito \(normalemnte recogidos en una “checklist” o lista de verificación\).
 
 De este modo, los alumnos “revisan” el trabajo de sus compañeros buscando en las tareas presentadas, todos aquellos elementos o características que, según las listas de verificación facilitadas por el docente, cada entrega debería incluír.
-
-      
-
-
-      
-
-
-      
-
-
-      
-
 
 Listas de verificación y rúbricas
 
