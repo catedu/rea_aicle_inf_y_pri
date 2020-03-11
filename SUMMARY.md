@@ -40,8 +40,12 @@
 
 ## BLOQUE III: La evaluación en AICLE
 
+* [¿Qué evaluamos en AICLE?](que-evaluamos-en-aicle.md)
+* [¿Por qué evaluamos en AICLE?](por-que-evaluamos-en-aicle.md)
+* [¿Cómo evaluamos en AICLE?](como-evaluamos-en-aicle.md)
 * [Andamiaje](andamiaje.md)
 * [Aprendizaje visible](aprendizaje_visible.md)
+* [¿Con qué evaluamos en AICLE?](con-que-evaluamos-en-clilaicle.md)
 * [Evaluación por Rubricas.](evaluacin_por_rubricas.md)
 
 ## BLOQUE IV: Modelo BRIT-Aragón
