@@ -65,19 +65,23 @@ En CLIL y en los programas de educación bilingüe, los portafolios se pueden us
 
 #### 5. AUTOEVALUACIÓ Y EVALUACIÓN ENTRE IGUALES
 
-Lo que entendemos por evaluación entre iguales, es el “feedback” o retroalimentación faciltado/aportado entre aprendices que se encuentran en una misma categoría. Es decir, ambos son estudiantes del mismo grupo o de la misma materia. De algún modo este enfoque favorece la ruptura con una jerarquía no escrita presente en las aulas, en la que los roles se nivelan y dejan de ser informaciones transmitidas de "docente a alumno", o vicebersa, si no de "alumno a alumno". 
+Lo que entendemos por evaluación entre iguales, es el “feedback” o retroalimentación faciltado/aportado entre aprendices que se encuentran en una misma categoría. Es decir, ambos son estudiantes del mismo grupo o de la misma materia. De algún modo este enfoque favorece la ruptura con una jerarquía no escrita presente en las aulas, en la que los roles se nivelan y dejan de ser informaciones transmitidas de "docente a alumno", o vicebersa, si no de "alumno a alumno".
 
-En este sentido, cabe matizar que la retroalimentación facilitada, no se basa en el criterio personal de cada alumno, si no en una serie de requisitos o criterios de éxito \(normalemnte recogidos en una “checklist” o lista de verificación\), facilitados entre el alumando con antelación. 
+En este sentido, cabe matizar que la retroalimentación facilitada, no se basa en el criterio personal de cada alumno, si no en una serie de requisitos o criterios de éxito \(normalemnte recogidos en una “checklist” o lista de verificación\), facilitados entre el alumando con antelación.
 
 El proceso de evaluación entre iguales \(o de autoevaluación, según corresponda\), queda así matizado, trasnfiriendo al alumnado un rol activo en el que éste debe "revisar” el trabajo de sus compañeros. Para ello, deberán buscar en las tareas presentadas, todos aquellos elementos o características que, según las listas de verificación facilitadas por el docente, cada entrega debería incluír.
 
 #### 6. OTRO TIPO DE TAREAS
 
-Aparte de las anteriores, existen otro tipo de tareas como: Presentaciones orales; Juegos de roles;
+Aparte de las anteriores, existen otro tipo de tareas posiblemente percibidas como "más directas" como: 
 
-Debates; Observación de una actividad con lista de verificación; Tomar notas mientras realiza alguna tarea, pueden percibirse como más "directos".
+* Presentaciones orales
+* Juegos de roles
+* Debates
+* Observación de una actividad con lista de verificación
+* Toma de notas mientras realiza alguna tarea.
 
-La forma en la que este tipo de tareas es más directa, es en el sentido de que los alumnos tienen que utilizar sus conocimientos ya no tanto para inforamar, si no para utilziarlos y hacer uso de ellos de manera prácica.
+La forma en la que este tipo de tareas elimina potenciales circumbalaciones, es en el sentido de que los alumnos tienen que utilizar sus conocimientos ya no tanto para inforamar, si no para utilziarlos y hacer uso de ellos de manera prácica.
 
 Pongamos como ejemplo el conocimiento del tipo textual “artículo de revista”.
 
