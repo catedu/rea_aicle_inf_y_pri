@@ -52,8 +52,8 @@
   * [Comunicación Uno a Uno](con-que-evaluamos-en-clilaicle/comunicacion-uno-a-uno.md)
   * [Portafolios](con-que-evaluamos-en-clilaicle/portafolios.md)
   * [Autoevaluación y Evaluación entre Iguales](con-que-evaluamos-en-clilaicle/autoevaluacion-y-evaluacion-entre-iguales.md)
+  * [Rúbricas y Listas de Verificación.](con-que-evaluamos-en-clilaicle/rubricas-y-listas-de-verificacion.md)
   * [Otro Tipo de Tareas](con-que-evaluamos-en-clilaicle/otro-tipo-de-tareas.md)
-* [Evaluación por Rubricas.](evaluacin_por_rubricas.md)
 
 ## BLOQUE IV: Modelo BRIT-Aragón
 
