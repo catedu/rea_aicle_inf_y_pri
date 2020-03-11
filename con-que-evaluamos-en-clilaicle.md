@@ -66,7 +66,7 @@ Los portafolios son una **recoplación de** diferentes **muestras de trabajo** d
 * Las **fechas** y los títulos de los trabajos que se irán almacenando
 * **Listas de control** o _“checklists_” con los elementos que deberían estar presentes en cada entrega.
 
-En CLIL y en los programas de educación bilingüe, los portafolios se pueden usar para proporcionar evidencia del aprendizaje de los estudiantes sobre el contenido académico y el desarrollo del lenguaje y la alfabetización.
+En CLIL y en los programas de educación bilingüe, los portafolios se pueden usar para **proporcionar evidencia del aprendizaje** de los estudiantes sobre el** contenido** académico y el desarrollo del **lenguaje** y la** alfabetización.**
 
 #### 5. AUTOEVALUACIÓ Y EVALUACIÓN ENTRE IGUALES
 
