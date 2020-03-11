@@ -10,10 +10,6 @@ Por ello, resulta de vital importancia **alternar** **métodos, instrumentos** y
 
 Algunos de los más funcionales y veraces para el aula AICLE, son las **listas de verificación** y **rúbricas** que establecen en detalle los criterios que estamos utilizando para evaluar a los estudiantes, pero aparte de ello, contamos con gran variedad de estrategias como: Tareas de respuestas seleccionadas; 2. Tareas de respuesta escritas; 3. Presentaciones orales
 
-#### 1. TAREAS DE OPCIÓN MÚLTIPLE
-
-
-
 #### 2. TAREAS DE RESPUESTA ESCRITA
 
 En relación a este tipo de tareas, cabe destacar que para un satisfactorio desarrollo de las mismas, el alumnado debe generar **producciones textuales** elaboradas de **mayor extensión**. Ello implica un **nivel de exigencia superior** en términos **de lenguaje**, ya que no solo deben reflejar sus ideas, si no hacerlo a través de un discurso estructurado y coherentemente articulado ya sea a nivel frase, párrafo o texto.
