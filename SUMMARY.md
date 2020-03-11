@@ -46,6 +46,8 @@
 * [Andamiaje](andamiaje.md)
 * [Aprendizaje visible](aprendizaje_visible.md)
 * [¿Con qué evaluamos en AICLE?](con-que-evaluamos-en-clilaicle.md)
+  * [1. Tareas de Opción Mútiple](con-que-evaluamos-en-clilaicle/1.md)
+  * 2. Tareas de Respuesta Escrita
 * [Evaluación por Rubricas.](evaluacin_por_rubricas.md)
 
 ## BLOQUE IV: Modelo BRIT-Aragón
