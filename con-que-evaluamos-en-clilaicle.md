@@ -94,11 +94,15 @@ Entenderemos por “buen” artículo, aquel texto que reune los requisitios y c
 * Secciones en las que se desarrolle el contenido de manera fluía y dinámica.
 * Breve cierredel artículo en el que se dibujen conclusiones o reflexiones finales.
 
-Los **juicios** sobre la **calidad** del proceso o los resultados deben** guiarse por **un instrumento como una **lista de verificación** o una **rúbrica,** que debería ser **negociada y compartida** con los alumnos **antes de comenzar** a realizar la tarea propuesta. 
+Los **juicios** sobre la **calidad** del proceso o los resultados deben** guiarse por **un instrumento como una **lista de verificación** o una **rúbrica,** que debería ser **negociada y compartida** con los alumnos **antes de comenzar** a realizar la tarea propuesta.
 
 De deste modo, tendrán la oportunidad de saber qué elementos van a ser susceptibles de ser evaluados y qué aspectos son considerados dentro de las expectativas del docente.
 
-Desde la perspectiva de la **integración del contenido y el lenguaje**, algunas tareas de rendimiento pueden **aumentar** en gran medida tanto la **demanda del lenguaje** como las oportunidades para un uso significativo del lenguaje. 
+Desde la perspectiva de la **integración del contenido y el lenguaje**, algunas tareas de rendimiento pueden **aumentar** en gran medida tanto la **demanda del lenguaje** como las oportunidades para un uso significativo del lenguaje.
 
-Por ejemplo, las presentaciones orales pueden ser un método excelente para evaluar el dominio de los estudiantes del contenido complejo, especialmente si son los resultados de su propia investigación, pero también requieren un alto nivel de fluidez y otras habilidades de comunicación. Si no identificamos y planificamos cuidadosamente las demandas lingüísticas de las tareas de evaluación del desempeño, como las presentaciones orales, nuestra evaluación del conocimiento del contenido puede estar "contaminada" por factores del lenguaje, o construya una varianza irrelevante como vimos anteriormente. Este problema puede reducirse si hacemos explícitas las demandas del lenguaje y las incluimos como parte de nuestros criterios de evaluación.
+Por ejemplo, las **presentaciones orales** pueden ser un método** excelente** para **evaluar** el dominio de los estudiantes del **contenido** complejo, especialmente si son los resultados de su propia investigación, pero** también** requieren un alto nivel de fluidez y otras habilidades de **comunicación**. 
+
+Si no identificamos y planificamos cuidadosamente las demandas lingüísticas de las tareas de evaluación del desempeño, como las presentaciones orales, nuestra evaluación del conocimiento del contenido puede estar "contaminada" por factores del lenguaje. 
+
+Este problema puede reducirse si hacemos explícitas las demandas del lenguaje y las incluimos como parte de nuestros criterios de evaluación.
 
