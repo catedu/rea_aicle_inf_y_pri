@@ -2,9 +2,15 @@
 
 Una vez tengamos claro el enfoque de nuestra evaluación, los motivos por los que queremos llevarla a cabo, y el método que vamos a usar, es momento de valorar qué instrumentos usraremos para tal efecto.
 
-Normalmente y de manera inconsciente, los docentes nos dejamos llevar en mayor o menor medida, por las impresiones y por los detalles que percibimos acerca de las intervenciones de nuestros alumnos. El uso de observaciones directas y el registro de anédotas resulta útil, pero en un determinado momento, puede conducirnos a perder la objetividad. Por ello, resulta de vital importancia alternar métodos, instrumentos y herramientas de evaluación. Algunos de los más funcionales y veraces para el aula CLIL, son las listas de verificación y rúbricas que establecen en detalle los criterios que estamos utilizando para evaluar a los estudiantes.
+Normalmente y de manera inconsciente, los docentes nos dejamos llevar en mayor o menor medida, por las impresiones y por los detalles que percibimos acerca de las intervenciones de nuestros alumnos. 
 
-1. Tareas de respuesta seleccionadas
+El uso de **observaciones directas** y el **registro de anédotas** resulta **útil**, pero en un determinado momento, podríamos car en la pérdida parcial, total, temporal y/o permanente de nuestra objetividad. 
+
+Por ello, resulta de vital importancia **alternar** **métodos, instrumentos** y** herramientas** de evaluación. 
+
+Algunos de los más funcionales y veraces para el aula AICLE, son las **listas de verificación** y **rúbricas** que establecen en detalle los criterios que estamos utilizando para evaluar a los estudiantes, pero aparte de ello, contamos con gran variedad de estrategias como: Tareas de respuestas seleccionadas; 2. Tareas de respuesta escritas; 3. Presentaciones orales
+
+#### 1. Tareas de respuestas seleccionadas
 
 Este tipo de pruebas suelen ser consideradas como las más “tradicionales”. A continuación hemos seleccionado algunos ejemplos que encajarían en esta categoría:
 
@@ -24,9 +30,11 @@ Es decir, que seamos capaces de utilizar distintos métodos, instrumentos y herr
 
 Una de las peores consecuencias de abusar del uso de, por ejemplo, las preguntas de opción múltiple, es que estaríamos vulnerando la valoración de la producción lingüística del alumnado, y con ello, no estaríamos evaluando la lengua, tal y como requiere la evalución CLIL.
 
-De igual modo, y dependiendo de cómo estén redactadas estas preguntas, estaríamos también incurriendo en el error de no valorar habilidades de pensamiento de orden superior \(HOTS\).
+De igual modo, y dependiendo de cómo estén redactadas estas preguntas, estaríamos también incurriendo en el error de no valorar habilidades de pensamiento de orden superior \(HOTS\)
 
-1. Tareas de respuesta escritas
+
+
+#### 2. Tareas de respuesta escritas
 
 En relación a este tipo de tareas, cabe destacar que para un satisfactorio desarrollo de las mismas, el alumnado debe generar producciones textuales elaboradas de mayor extensión. Ello implica un nivel de exigencia superior en términos de lenguaje, ya que no solo deben reflejar sus ideas, si no hacerlo a través de un discurso estructurado y coherentemente articulado ya sea a nivel frase, párrafo o texto.
 
@@ -34,9 +42,11 @@ De un modo u otro, los alumnos se ven obligados demostrar un nivel cognitivo y d
 
 Resulta de gran utilidad, por parte del docente, el establecer de manera clara cuales son las expectativas y las demandas del lenguaje para este tipo de tareas.
 
-Por ejemplo, si el propósito de una tarea es explicar la manera en la que un acontecimiento ha sucedido, los alumnos necesitarán utilizar el lenguaje de causa y efecto. Es importante que éste se les enseñe a usar, y debería estar incluído entre los criterios de evaluación. De esta forma, las tareas de producción de textos orales y/o escritos, conforman una potente manera de integrar contenido y lenguaje en la evaluación.
+Por ejemplo, si el propósito de una tarea es explicar la manera en la que un acontecimiento ha sucedido, los alumnos necesitarán utilizar el lenguaje de causa y efecto. Es importante que éste se les enseñe a usar, y debería estar incluído entre los criterios de evaluación. De esta forma, las tareas de producción de textos orales y/o escritos, conforman una potente manera de integrar contenido y lenguaje en la evaluación
 
-1. Otro tipo de tareas
+
+
+#### 3. Otro tipo de tareas
 
 Aparte de las anteriores, existen otro tipo de tareas como: Presentaciones orales; Juegos de roles;
 
