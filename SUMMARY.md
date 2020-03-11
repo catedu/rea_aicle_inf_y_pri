@@ -47,8 +47,12 @@
   * [Aprendizaje Visible](como-evaluamos-en-aicle/aprendizaje-visible.md)
 * [Aprendizaje visible](aprendizaje_visible.md)
 * [¿Con qué evaluamos en AICLE?](con-que-evaluamos-en-clilaicle.md)
-  * [1. Tareas de Opción Mútiple](con-que-evaluamos-en-clilaicle/1.md)
-  * 2. Tareas de Respuesta Escrita
+  * [Tareas de Opción Mútiple](con-que-evaluamos-en-clilaicle/1.md)
+  * [Tareas de Respuesta Escrita](con-que-evaluamos-en-clilaicle/tareas-de-respuesta-escrita.md)
+  * [Comunicación Uno a Uno](con-que-evaluamos-en-clilaicle/comunicacion-uno-a-uno.md)
+  * [Portafolios](con-que-evaluamos-en-clilaicle/portafolios.md)
+  * [Autoevaluación y Evaluación entre Iguales](con-que-evaluamos-en-clilaicle/autoevaluacion-y-evaluacion-entre-iguales.md)
+  * [Otro Tipo de Tareas](con-que-evaluamos-en-clilaicle/otro-tipo-de-tareas.md)
 * [Evaluación por Rubricas.](evaluacin_por_rubricas.md)
 
 ## BLOQUE IV: Modelo BRIT-Aragón
