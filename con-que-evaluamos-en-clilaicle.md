@@ -8,7 +8,9 @@ El uso de **observaciones directas** y el **registro de anédotas** resulta **ú
 
 Por ello, resulta de vital importancia **alternar** **métodos, instrumentos** y** herramientas** de evaluación.
 
-Algunos de los más funcionales y veraces para el aula AICLE, son las **listas de verificación** y **rúbricas** que establecen en detalle los criterios que estamos utilizando para evaluar a los estudiantes, pero aparte de ello, contamos con gran variedad de estrategias como: Tareas de respuestas seleccionadas; 2. Tareas de respuesta escritas; 3. Presentaciones orales
+Algunos de los más funcionales y veraces para el aula AICLE, son las **listas de verificación** y **rúbricas** que establecen en detalle los criterios que estamos utilizando para evaluar a los estudiantes, pero aparte de ello, contamos con gran variedad de estrategias como: Tareas de respuestas seleccionadas; Tareas de respuesta escritas; Presentaciones orales, Comunicación uno a uno; Portafolios; Autoevaluación y Evaluación entre iguales; Rúbricas y Listas de Verificación.
+
+![](/assets/download.png)
 
 #### 
 
