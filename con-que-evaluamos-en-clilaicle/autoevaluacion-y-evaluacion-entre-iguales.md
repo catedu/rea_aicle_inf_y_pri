@@ -10,3 +10,5 @@ El proceso de **evaluación entre iguales** \(o de autoevaluación, según corre
 
 Para ello, deberán buscar en las tareas presentadas, todos aquellos elementos o características que, según las listas de verificación facilitadas por el docente, cada entrega debea incluír.
 
+![](/assets/download %281%29.png)
+
