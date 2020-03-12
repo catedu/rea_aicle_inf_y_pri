@@ -11,3 +11,5 @@ Los portafolios son una **recoplación de** diferentes **muestras de trabajo** d
 
 En CLIL y en los programas de educación bilingüe, los portafolios se pueden usar para **proporcionar evidencia del aprendizaje** de los estudiantes sobre el** contenido** académico y el desarrollo del **lenguaje** y la** alfabetización.**
 
+![](/assets/stock-portfolio.jpg)
+
