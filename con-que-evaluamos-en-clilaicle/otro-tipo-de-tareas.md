@@ -25,6 +25,8 @@ Los **juicios** sobre la **calidad** del proceso o los resultados deben** guiars
 
 De deste modo, tendrán la oportunidad de saber qué elementos van a ser susceptibles de ser evaluados y qué aspectos son considerados dentro de las expectativas del docente.
 
+![](/assets/download %282%29.png)
+
 Desde la perspectiva de la **integración del contenido y el lenguaje**, algunas tareas de rendimiento pueden **aumentar** en gran medida tanto la **demanda del lenguaje** como las oportunidades para un uso significativo del lenguaje.
 
 Por ejemplo, las **presentaciones orales** pueden ser un método** excelente** para **evaluar** el dominio de los estudiantes del **contenido** complejo, especialmente si son los resultados de su propia investigación, pero** también** requieren un alto nivel de fluidez y otras habilidades de **comunicación**.
