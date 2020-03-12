@@ -12,7 +12,9 @@ En el siguiente video puedes escuchar a D. Marsh explicando el nacimiento de la 
 
 Una definición que expresa mejor el **modo entrelazado en que se integra la lengua y el contenido** así como el énfasis compartido en ambos aspectos en el AICLE es la enunciada a continuación:
 
-"Content and Language Integrated Learning (CLIL) is a dual-focused educational approach in which an additional language is used for the learning and teaching of both content and language. That is, in the teaching and learning process, there is a focus not only on content, and not only on language. Each is interwoven, even if the emphasis is greater on one or the other at a given time." Coyle, Hood and Marsh (2010:1).
+"Content and Language Integrated Learning (CLIL) is a dual-focused educational approach in which an additional language is used for the learning and teaching of both content and language. That is, in the teaching and learning process, there is a focus not only on content, and not only on language. Each is interwoven, even if the emphasis is greater on one or the other at a given time." Coyle, Hood, and Marsh (2010:1).
+
+"El aprendizaje integrado de contenido y lenguaje (CLIL) es un enfoque educativo de doble enfoque en el que se utiliza un idioma adicional para el aprendizaje y la enseñanza de contenido y lenguaje. Es decir, en el proceso de enseñanza y aprendizaje, hay un enfoque no solo en el contenido, y no solo en el lenguaje. Cada uno está entretejido, incluso si el énfasis es mayor en uno u otro en un momento dado". Coyle, Hood, and Marsh (2010:1).
 
 
 ![Wordle 3 AICLE](img/REAaicle_14_07_16_B1_T1_Principios_v2_img3.png)
