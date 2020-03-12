@@ -33,7 +33,7 @@ En este contexto son diversos los programas educativos que se llevan a cabo basa
 
 Todas estas variables configuran escenarios diferentes que influirán en el diseño de los programas a llevar a cabo en los centros. **Por ejemplo, si consideramos el caso del programa bilingüe Modelo BRIT-Aragón**, las variables anteriores se configuran como sigue: el programa se imparte en toda la etapa en la que está aprobado. La L2 se usará un mínimo del 35 %, y las materias a impartir serán las que determine el propio centro educativo diseñando su propio Itinerario Bilingüe. En cuanto al nivel de interacción, dado que la L2 no se usa en el ámbito social (entorno, televisión, etc.), por lo general será un escenario micro aunque en algunos casos podría ser tipo medio.
 
-* * *
+
 
 [1]: Lin, A. M. (2008). Code-Switching In the Classroom: Research Paradigms and Approaches. In K. A. King, & N. H. Hornberger, _Encyclopedia of Language and Education_ (pp. 273-286). New York: Springer.
 
