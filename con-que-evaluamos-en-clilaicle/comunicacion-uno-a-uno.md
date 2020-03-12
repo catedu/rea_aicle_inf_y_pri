@@ -6,3 +6,5 @@ Esta forma de **evaluación** es habitualmente descrita como **muy efectiva**, y
 
 **No obstante**, al igual que cualquier otro método, las conversaciones uno a uno, tienen varios **aspectos negativos**. Por ejemplo, el **tiempo**. No siempre se dispone del tiempo material necesario para ofrecer este tipo de conversaciones a todos los alumnos.
 
+![](/assets/33855639685_8f1d3da4ce_b.jpg)
+
