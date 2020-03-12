@@ -44,7 +44,6 @@
 * [¿Por qué evaluamos en AICLE?](por-que-evaluamos-en-aicle.md)
 * [¿Cómo evaluamos en AICLE?](como-evaluamos-en-aicle.md)
   * [Andamiaje](como-evaluamos-en-aicle/andamiaje.md)
-  * [Aprendizaje Visible](como-evaluamos-en-aicle/aprendizaje-visible.md)
 * [Aprendizaje visible](aprendizaje_visible.md)
 * [¿Con qué evaluamos en AICLE?](con-que-evaluamos-en-clilaicle.md)
   * [Tareas de Opción Mútiple](con-que-evaluamos-en-clilaicle/1.md)

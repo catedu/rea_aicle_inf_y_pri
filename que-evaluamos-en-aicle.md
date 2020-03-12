@@ -1,6 +1,6 @@
 # **Preguntas clave en evaluación en AICLE / Educación Bilingüe**
 
-Cuando pensamos en la **evaluación en AICLE** y en la educación bilingüe, resulta muy interesante valorar los **posibles problema**s que pueden, y que de hecho van a surgir durante su implementación. 
+Cuando pensamos en la **evaluación en AICLE** y en la educación bilingüe, resulta muy interesante valorar los **posibles problema**s que pueden, y que de hecho van a surgir durante su implementación.
 
 Por ello a continuación presentamos los más relevantes, organizados en torno a cuatro grandes interrogantes:
 
