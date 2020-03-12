@@ -10,7 +10,9 @@ Con ello estaríamos **garantizando** que los distintos **estilos de aprendizaje
 
 Tomemos por **ejemplo** el hecho de que queramos **saber si** nuestros alumnos han **memorizado **correctamente una serie de** palabras** relacionadas con el tema que acabamos de termianr en nuestra clase.
 
-**Para ello**, podríamos por ejemplo simplemente administrar una **sencilla prueba escrita** en la que los alumnos tuvieran que **crear un listado** de las palabras trabajadas, o **identificarlas** dentro de un grupo más heterogéneo. 
+**Para ello**, podríamos por ejemplo simplemente administrar una **sencilla prueba escrita** en la que los alumnos tuvieran que **crear un listado** de las palabras trabajadas, o **identificarlas** dentro de un grupo más heterogéneo.
+
+![](/assets/reason-53565_960_720.jpg)
 
 En cualquier caso, lo que se está intentando **valorar**, es la **capacidad memorística** del alumnado, objetivo para el cual, se ha diseñado este tipo de prueba.
 
