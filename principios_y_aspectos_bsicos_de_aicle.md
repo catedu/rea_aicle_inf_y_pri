@@ -20,7 +20,7 @@ Por último, en el siguiente cuadro elaborado por Mehisto and Lucietto \(2010\) 
 
 [![](/img/REAaicle_14_07_16_B1_T1_Principios_v2_img4.png.jpg)](http://education.cambridge.org/media/2621468/clil_essentials.swf)
 
-* * \*
+
 
 \[1\]: Dalton-Puffer, C. 2007. _Discourse in CLIL Classrooms_. Amsterdam:Benjamins.
 
