@@ -8,5 +8,7 @@ En este sentido, resulta de gran **utilidad,** por parte del **docente**, el **e
 
 Por ejemplo, si el propósito de una tarea es explicar la manera en la que un acontecimiento ha sucedido, los alumnos necesitarán utilizar el lenguaje de causa y efecto.
 
+![](/assets/download %281%29.jfif)
+
 Es importante que éste se les enseñe a usar, y debería estar incluído entre los criterios de evaluación. De esta forma, las tareas de producción de textos orales y/o escritos, conforman una potente manera de integrar contenido y lenguaje en la evaluación
 
