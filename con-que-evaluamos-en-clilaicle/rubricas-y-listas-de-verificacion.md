@@ -31,6 +31,8 @@ Por **ejemplo**, en el diseño de un **cartel publicitario**, la lista de verifi
 
 De este modo, si facilitamos una lista de verificación para la elaboración de un cartel publicitario, el alumnado deberá asegurarse que esos tres elementos están presentes en sus diseños.
 
+![](/assets/checklist-911841_960_720.webp)
+
 No es menos cierto, que este tipo de herramientas puede simplificarse todavía más si limitamos ese listado a una serie de preguntas a las cuales el alumno debe responder “SI” o “NO”.
 
 Ejemplo:
