@@ -21,7 +21,7 @@ En el primer bloque de este curso hemos definido **en qué consiste** la Enseña
 
 Aunque los hemos ordenado numéricamente, estos elementos no necesariamente tienen que pensarse y definirse en ese orden. Igualmente, no se trata de definir todos y cada uno siempre que planteamos una actividad o una unidad AICLE, algunos serán precisos siempre \(ej. objetivos, contenidos, lengua\) pero otros podrán ser prescindibles dependiendo de cada caso.
 
-* * \*
+
 
 \[1\]: Pérez Torres, I. 2009. "Apuntes sobre los principios y características de la metodología AICLE" en V. Pavón, J. Ávila \(eds.\), _Aplicaciones didácticas para la enseñanza integrada de lengua y contenidos_. Sevilla: Consejería de Educación de la Junta de Andalucía-Universidad de Córdoba.171-180.
 

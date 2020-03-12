@@ -10,3 +10,5 @@ Es muy **importante** entender que **cuando evaluamos** en **AICLE**, estamos **
 
 Puede resultar **fácil** caer en el **error** de dar **demasiado peso a la lengua**, **o** de **no dotarlo del valor suficiente**, por ello insistimos nuevamente en la importancia de un cuidadoso **análisis** del componente **lingüístico** presente en cada una de las áreas que se vayan a instruir bajo un enfoque CLIL.
 
+
+
